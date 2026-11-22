@@ -1,22 +1,22 @@
 {
   "plugins": {
     "WAVELOCK": {
-      "version": "1.8.3",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v1.8.3/PLOOP_WAVELOCK-1.8.3.zip",
-      "sha256": "05f733b200157341ec2dec57f74b5551577c75861d4537063aeb1a0b81faa471",
-      "size": 94819,
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v1.8.3/PLOOP_WAVELOCK-1.8.3-install.zip",
+      "version": "2.0.0",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.0/PLOOP_WAVELOCK-2.0.0.zip",
+      "sha256": "cd28be296ba460cdd9c11ff2214f37df510944645591aa2ee43729a73bc06bce",
+      "size": 94818,
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.0/PLOOP_WAVELOCK-2.0.0-install.zip",
       "notes": "PLOOP v2",
-      "date": "2026-11-22T08:42:17.803Z"
+      "date": "2026-11-22T08:45:15.670Z"
     },
     "CHECK": {
-      "version": "1.3.2",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/check-v1.3.2/PLOOP_CHECK-1.3.2.zip",
-      "sha256": "ebd5a6a083d85fc91c69d59b7f673304200ecb5deb868f9a8027cceee0b8b400",
-      "size": 51554,
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/check-v1.3.2/PLOOP_CHECK-1.3.2-install.zip",
+      "version": "2.0.0",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/check-v2.0.0/PLOOP_CHECK-2.0.0.zip",
+      "sha256": "77f81b02b649f9db6a45be91306725fea077fb05d23c28897c142b193ad1b7f9",
+      "size": 51553,
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/check-v2.0.0/PLOOP_CHECK-2.0.0-install.zip",
       "notes": "PLOOP v2",
-      "date": "2026-11-22T08:42:17.803Z"
+      "date": "2026-11-22T08:45:15.670Z"
     },
     "MOTION": {
       "version": "2.3.0",
@@ -28,5 +28,5 @@
       "date": "2026-11-22T08:27:36.576Z"
     }
   },
-  "updated": "2026-11-22T08:42:17.803Z"
+  "updated": "2026-11-22T08:45:15.670Z"
 }
