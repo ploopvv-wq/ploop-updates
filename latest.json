@@ -1,32 +1,44 @@
 {
   "plugins": {
     "WAVELOCK": {
-      "version": "2.0.1",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.1/PLOOP_WAVELOCK-2.0.1.zip",
-      "sha256": "9b6d624eda701c8ca12577f0d47125c4b76588e175e303baa70d3459279dc2e8",
-      "size": 95107,
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.1/PLOOP_WAVELOCK-2.0.1-install.zip",
-      "notes": "라이선스·업데이트 창 버튼 찌그러짐 수정",
-      "date": "2026-11-22T09:01:02.271Z"
+      "version": "2.0.2",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.2/PLOOP_WAVELOCK-2.0.2.zxp",
+      "sha256": "f3f985cbe2841a845d1b5395a22eaa84924d4de2e13b75f8c57dc32651378f4d",
+      "size": 104324,
+      "signed": true,
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.2/PLOOP_WAVELOCK-2.0.2.zip",
+      "zipSha256": "e4f0b32b54bc451eadb1f5d9ccd00dee7907605faa7712be133d37708e004aa7",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.2/PLOOP_WAVELOCK-2.0.2.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.2/PLOOP_WAVELOCK-2.0.2-install.zip",
+      "notes": "배포: 서명된 ZXP (Adobe ZXPSignCmd 4.1.3) 를 릴리스마다 만들고, 자동 업데이트도 ZXP 로 (서명 유지)",
+      "date": "2026-11-22T12:52:50.417Z"
     },
     "CHECK": {
-      "version": "2.0.1",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/check-v2.0.1/PLOOP_CHECK-2.0.1.zip",
-      "sha256": "f1b5fdba453747b60daf12354e5a84839329f546ddc1d1ad995ad99e28162324",
-      "size": 51842,
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/check-v2.0.1/PLOOP_CHECK-2.0.1-install.zip",
-      "notes": "라이선스·업데이트 창 버튼 찌그러짐 수정",
-      "date": "2026-11-22T09:01:02.271Z"
+      "version": "2.0.2",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/check-v2.0.2/PLOOP_CHECK-2.0.2.zxp",
+      "sha256": "928233655f13d99350a3cf365333668bb5c2df21df1016a83ddbd2cfc4eb4fb6",
+      "size": 60204,
+      "signed": true,
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/check-v2.0.2/PLOOP_CHECK-2.0.2.zip",
+      "zipSha256": "b40c48def73b5f30bc1daebda5aeee5e3d032aa157d611f5182e3c4ae0281975",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/check-v2.0.2/PLOOP_CHECK-2.0.2.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/check-v2.0.2/PLOOP_CHECK-2.0.2-install.zip",
+      "notes": "배포: 서명된 ZXP (Adobe ZXPSignCmd 4.1.3) 를 릴리스마다 만들고, 자동 업데이트도 ZXP 로 (서명 유지)",
+      "date": "2026-11-22T12:52:50.417Z"
     },
     "MOTION": {
-      "version": "2.4.0",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.0/PLOOP_MOTION-2.4.0.zip",
-      "sha256": "97ec9af3f662337e7258e0cd2a10236f8d51cedc4d2c68e72e7f01518cc1c6db",
-      "size": 83020,
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.0/PLOOP_MOTION-2.4.0-install.zip",
-      "notes": "MOTION 2.4.0 license version string\nPLOOP MOTION 2.4.0: no bundled fonts; use installed system fonts with style-matched fallbacks + missing-font notice; original quote lines",
-      "date": "2026-11-22T09:19:07.555Z"
+      "version": "2.4.1",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.1/PLOOP_MOTION-2.4.1.zxp",
+      "sha256": "c38cb7fc36cb867494ed77a93cadfdb2935d30147f280ce7c19d3d8aec455b17",
+      "size": 91573,
+      "signed": true,
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.1/PLOOP_MOTION-2.4.1.zip",
+      "zipSha256": "c24701d49ffa744d2a87c2abbd14108577aa639e0b26ee26cf82153ac3ac077c",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.1/PLOOP_MOTION-2.4.1.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.1/PLOOP_MOTION-2.4.1-install.zip",
+      "notes": "배포: 서명된 ZXP (Adobe ZXPSignCmd 4.1.3) 를 릴리스마다 만들고, 자동 업데이트도 ZXP 로 (서명 유지)",
+      "date": "2026-11-22T12:52:50.417Z"
     }
   },
-  "updated": "2026-11-22T09:19:07.555Z"
+  "updated": "2026-11-22T12:52:50.417Z"
 }
