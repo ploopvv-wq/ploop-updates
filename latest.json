@@ -1,32 +1,32 @@
 {
   "plugins": {
     "WAVELOCK": {
-      "version": "2.0.0",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.0/PLOOP_WAVELOCK-2.0.0.zip",
-      "sha256": "cd28be296ba460cdd9c11ff2214f37df510944645591aa2ee43729a73bc06bce",
-      "size": 94818,
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.0/PLOOP_WAVELOCK-2.0.0-install.zip",
-      "notes": "PLOOP v2",
-      "date": "2026-11-22T08:45:15.670Z"
+      "version": "2.0.1",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.1/PLOOP_WAVELOCK-2.0.1.zip",
+      "sha256": "9b6d624eda701c8ca12577f0d47125c4b76588e175e303baa70d3459279dc2e8",
+      "size": 95107,
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.1/PLOOP_WAVELOCK-2.0.1-install.zip",
+      "notes": "라이선스·업데이트 창 버튼 찌그러짐 수정",
+      "date": "2026-11-22T09:01:02.271Z"
     },
     "CHECK": {
-      "version": "2.0.0",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/check-v2.0.0/PLOOP_CHECK-2.0.0.zip",
-      "sha256": "77f81b02b649f9db6a45be91306725fea077fb05d23c28897c142b193ad1b7f9",
-      "size": 51553,
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/check-v2.0.0/PLOOP_CHECK-2.0.0-install.zip",
-      "notes": "PLOOP v2",
-      "date": "2026-11-22T08:45:15.670Z"
+      "version": "2.0.1",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/check-v2.0.1/PLOOP_CHECK-2.0.1.zip",
+      "sha256": "f1b5fdba453747b60daf12354e5a84839329f546ddc1d1ad995ad99e28162324",
+      "size": 51842,
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/check-v2.0.1/PLOOP_CHECK-2.0.1-install.zip",
+      "notes": "라이선스·업데이트 창 버튼 찌그러짐 수정",
+      "date": "2026-11-22T09:01:02.271Z"
     },
     "MOTION": {
-      "version": "2.3.0",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.3.0/PLOOP_MOTION-2.3.0.zip",
-      "sha256": "3097afa4f4ba57ef215e8d80be87e22b2353676dfbeb6166137890cfe47f0a12",
-      "size": 7432428,
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.3.0/PLOOP_MOTION-2.3.0-install.zip",
-      "notes": "Merge pull request #1 from ploopvv-wq/wavelock-speed\nGitHub 계정 이전: ploopvv-wq/ploop-updates 로 주소 변경\n자동 업데이트 + 버전 자동 증가 배포\n라이선스 서버 주소 연결 (ploop.vv 계정 웹 앱)\n라이선스: 키 입력 화면 + 서버 on/off + 1인 2대 + 베타 키\nPLOOP MOTION 2.3.0: modern title collection (20 signatures + 6 modern style packs), Pretendard/Inter/Space Grotesk/Syne/Unbounded/Instrument Serif/Bricolage/JetBrains Mono/Manrope bundled\nPLOOP MOTION 2.2.0: 2026 trend signatures (neo deco, glamoratti, poetcore, vamp, cool blue, celestial, glitch glam, gummy, khaki, smoke, 70s, grunge, kinetic, wedding, ko cinema, mystic, opera)\nPLOOP MOTION 2.1.0: 150 title designs (16 styles x layouts) + per-text style editing\nPLOOP MOTION 2.0.0 (renamed from TOOL): text / title modes, 17 original cinematic titles",
-      "date": "2026-11-22T08:27:36.576Z"
+      "version": "2.3.1",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.3.1/PLOOP_MOTION-2.3.1.zip",
+      "sha256": "05a3f422c994265e444bf4efbe34b9f64a4871e46e35d7dd1c9e9aab24eb1dfb",
+      "size": 7432718,
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.3.1/PLOOP_MOTION-2.3.1-install.zip",
+      "notes": "라이선스·업데이트 창 버튼 찌그러짐 수정",
+      "date": "2026-11-22T09:01:02.271Z"
     }
   },
-  "updated": "2026-11-22T08:45:15.670Z"
+  "updated": "2026-11-22T09:01:02.271Z"
 }
