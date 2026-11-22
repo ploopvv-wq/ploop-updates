@@ -19,14 +19,14 @@
       "date": "2026-11-22T09:01:02.271Z"
     },
     "MOTION": {
-      "version": "2.3.1",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.3.1/PLOOP_MOTION-2.3.1.zip",
-      "sha256": "05a3f422c994265e444bf4efbe34b9f64a4871e46e35d7dd1c9e9aab24eb1dfb",
-      "size": 7432718,
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.3.1/PLOOP_MOTION-2.3.1-install.zip",
-      "notes": "라이선스·업데이트 창 버튼 찌그러짐 수정",
-      "date": "2026-11-22T09:01:02.271Z"
+      "version": "2.4.0",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.0/PLOOP_MOTION-2.4.0.zip",
+      "sha256": "97ec9af3f662337e7258e0cd2a10236f8d51cedc4d2c68e72e7f01518cc1c6db",
+      "size": 83020,
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.0/PLOOP_MOTION-2.4.0-install.zip",
+      "notes": "MOTION 2.4.0 license version string\nPLOOP MOTION 2.4.0: no bundled fonts; use installed system fonts with style-matched fallbacks + missing-font notice; original quote lines",
+      "date": "2026-11-22T09:19:07.555Z"
     }
   },
-  "updated": "2026-11-22T09:01:02.271Z"
+  "updated": "2026-11-22T09:19:07.555Z"
 }
