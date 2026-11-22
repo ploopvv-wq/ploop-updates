@@ -27,18 +27,18 @@
       "date": "2026-11-22T12:52:50.417Z"
     },
     "MOTION": {
-      "version": "2.4.1",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.1/PLOOP_MOTION-2.4.1.zxp",
-      "sha256": "c38cb7fc36cb867494ed77a93cadfdb2935d30147f280ce7c19d3d8aec455b17",
-      "size": 91573,
+      "version": "2.4.2",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.2/PLOOP_MOTION-2.4.2.zxp",
+      "sha256": "ab5dc14f9ceb1ecf6e60e913e2c74d8dfd06e286b4abff987289a99859ace1df",
+      "size": 94718,
       "signed": true,
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.1/PLOOP_MOTION-2.4.1.zip",
-      "zipSha256": "c24701d49ffa744d2a87c2abbd14108577aa639e0b26ee26cf82153ac3ac077c",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.1/PLOOP_MOTION-2.4.1.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.1/PLOOP_MOTION-2.4.1-install.zip",
-      "notes": "배포: 서명된 ZXP (Adobe ZXPSignCmd 4.1.3) 를 릴리스마다 만들고, 자동 업데이트도 ZXP 로 (서명 유지)",
-      "date": "2026-11-22T12:52:50.417Z"
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.2/PLOOP_MOTION-2.4.2.zip",
+      "zipSha256": "a0a51e1e2315cb5cf1f9b3fe1eb3981df679daa865427c0528e865d1feb2cdc4",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.2/PLOOP_MOTION-2.4.2.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.2/PLOOP_MOTION-2.4.2-install.zip",
+      "notes": "MOTION: 글꼴 고르기 창(설치된 글꼴·미리보기), 기본 글꼴 시스템 고딕, 애니메이션 길이 단축, 빠르게/느리게",
+      "date": "2026-11-22T13:28:35.875Z"
     }
   },
-  "updated": "2026-11-22T12:52:50.417Z"
+  "updated": "2026-11-22T13:28:35.875Z"
 }
