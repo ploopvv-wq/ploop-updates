@@ -64,7 +64,20 @@
       "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.0/PLOOP_VILLAGE-1.0.0-install.zip",
       "notes": "PLOOP 마을: 커뮤니티 패널 + 플러그인 공지 띠",
       "date": "2026-11-23T10:21:17.646Z"
+    },
+    "COLOR": {
+      "version": "1.0.0",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/color-v1.0.0/PLOOP_COLOR-1.0.0.zxp",
+      "sha256": "e9ad327c57461382548978d0f88ee7004ebda8fc2cd00b6c6382456f6c02b048",
+      "size": 42466,
+      "signed": true,
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/color-v1.0.0/PLOOP_COLOR-1.0.0.zip",
+      "zipSha256": "19d9222e5055b51811abba2f6222623348cfb92d0a4c7fed312712d767f183b4",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/color-v1.0.0/PLOOP_COLOR-1.0.0.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/color-v1.0.0/PLOOP_COLOR-1.0.0-install.zip",
+      "notes": "COLOR: 새 플러그인 — 프리미어 27 에서 사라진 Lumetri 색상 패널 대신 쓰는 색상 패널",
+      "date": "2026-11-23T10:51:10.970Z"
     }
   },
-  "updated": "2026-11-23T10:21:17.646Z"
+  "updated": "2026-11-23T10:51:10.970Z"
 }
