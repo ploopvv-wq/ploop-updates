@@ -40,18 +40,18 @@
       "date": "2026-11-22T13:28:35.875Z"
     },
     "SFX": {
-      "version": "1.0.5",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.5/PLOOP_SFX-1.0.5.zxp",
-      "sha256": "e48da96dafab6ea215e036b3a90e065572af59bda2740b723b5fff4c55f81d6a",
-      "size": 14112481,
+      "version": "1.0.6",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.6/PLOOP_SFX-1.0.6.zxp",
+      "sha256": "2a77a1a61f008fdf3b192090291344c7787cbd08bb05a5fe72878b4f8d93ad0a",
+      "size": 14112483,
       "signed": true,
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.5/PLOOP_SFX-1.0.5.zip",
-      "zipSha256": "711a2a2c356802957300b3948425b78c4d2883e3d055443b667313dd3ef6b471",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.5/PLOOP_SFX-1.0.5.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.5/PLOOP_SFX-1.0.5-install.zip",
-      "notes": "SFX 음악 잇기: iOS 느낌 초록 안내 그림, 둥근 막대 파형·지나간 곳 진하게·구간 알약 이름",
-      "date": "2026-11-23T07:04:22.921Z"
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.6/PLOOP_SFX-1.0.6.zip",
+      "zipSha256": "2a29e394df835c8874c92014707fd3b7f5c3f42008c9a86317a576672bd0e906",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.6/PLOOP_SFX-1.0.6.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.6/PLOOP_SFX-1.0.6-install.zip",
+      "notes": "SFX 음악 잇기: 안내 그림 빈자리를 파란색으로",
+      "date": "2026-11-23T08:23:39.801Z"
     }
   },
-  "updated": "2026-11-23T07:04:22.921Z"
+  "updated": "2026-11-23T08:23:39.801Z"
 }
