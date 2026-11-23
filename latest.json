@@ -40,18 +40,18 @@
       "date": "2026-11-22T13:28:35.875Z"
     },
     "SFX": {
-      "version": "1.0.7",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.7/PLOOP_SFX-1.0.7.zxp",
-      "sha256": "d5f72980c5c48ca2d393e8f94098c406e1bbb624c575c4aa5d47bebb140e9672",
-      "size": 14113852,
+      "version": "1.0.8",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.8/PLOOP_SFX-1.0.8.zxp",
+      "sha256": "aedf9ee31eb8dbcebc83c82d11ef0789127876fb17cf74d219073466f5dad43d",
+      "size": 14113120,
       "signed": true,
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.7/PLOOP_SFX-1.0.7.zip",
-      "zipSha256": "a6873d4bf86b414368dc8d204ce37f7ba385640958b9204617a2c6710bffdf1d",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.7/PLOOP_SFX-1.0.7.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.7/PLOOP_SFX-1.0.7-install.zip",
-      "notes": "SFX: 리퀴드 글래스 디자인 적용 (빛 번짐 바탕, 반투명 유리 카드, 그라데이션 알약 버튼, 음악 잇기 A·B 초록·빈자리 파랑)",
-      "date": "2026-11-23T08:30:58.987Z"
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.8/PLOOP_SFX-1.0.8.zip",
+      "zipSha256": "d43bc6057993b27bbbd9365932244ac9d974723d392203994d7f90a0d7eff512",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.8/PLOOP_SFX-1.0.8.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.8/PLOOP_SFX-1.0.8-install.zip",
+      "notes": "SFX: 리퀴드 글래스 되돌리고 기존 PLOOP 디자인으로, CHECK 처럼 읽기 쉽게 (글자 키우고 대비 높임, 차분한 칩·카드)",
+      "date": "2026-11-23T08:48:04.362Z"
     }
   },
-  "updated": "2026-11-23T08:30:58.987Z"
+  "updated": "2026-11-23T08:48:04.362Z"
 }
