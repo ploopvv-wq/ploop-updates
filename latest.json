@@ -40,18 +40,18 @@
       "date": "2026-11-22T13:28:35.875Z"
     },
     "SFX": {
-      "version": "1.0.3",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.3/PLOOP_SFX-1.0.3.zxp",
-      "sha256": "f61f71ded73b4b030bbbc6d1c79abedc28a1fcf912dad68a1dae231759cca690",
-      "size": 14108061,
+      "version": "1.0.4",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.4/PLOOP_SFX-1.0.4.zxp",
+      "sha256": "2fdf6be3ca0a61f81e5332fd2f6ee70ae1d809e39be1af43043d9c8f7ea52a09",
+      "size": 14111919,
       "signed": true,
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.3/PLOOP_SFX-1.0.3.zip",
-      "zipSha256": "f83de970ca25dd3a244d29517a3925ef115e8ed060e84631851446b5cc005be7",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.3/PLOOP_SFX-1.0.3.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.3/PLOOP_SFX-1.0.3-install.zip",
-      "notes": "SFX 음악 잇기: 두 클립 사이 빈자리를 곡 자신의 마디로 채워 잇는 브릿지 방식으로 변경",
-      "date": "2026-11-23T06:31:16.854Z"
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.4/PLOOP_SFX-1.0.4.zip",
+      "zipSha256": "d3c6211150f7d4f422354821c8dad4c1cd5811d5c57cca2a4c5eaf38ffbd95e1",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.4/PLOOP_SFX-1.0.4.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.4/PLOOP_SFX-1.0.4-install.zip",
+      "notes": "SFX 음악 잇기: 파형 미리보기·실시간 재생헤드·끌어서 듣기, 버전 목록·삭제, 안내 그림 색 정리",
+      "date": "2026-11-23T06:56:19.938Z"
     }
   },
-  "updated": "2026-11-23T06:31:16.854Z"
+  "updated": "2026-11-23T06:56:19.938Z"
 }
