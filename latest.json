@@ -1,60 +1,60 @@
 {
   "plugins": {
     "WAVELOCK": {
-      "version": "2.0.5",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.5/PLOOP_WAVELOCK-2.0.5.zxp",
-      "sha256": "dbcd90908cf2e195e41384f86140f2c75749dbeba1d36001f772f33a3e19866d",
-      "size": 154031,
+      "version": "2.0.6",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.6/PLOOP_WAVELOCK-2.0.6.zxp",
+      "sha256": "fd5ffcd071f89e3a4ae2d355db92c15c7772e3b9d405d39071baa26830bdd240",
+      "size": 155064,
       "signed": true,
-      "sig": "DrSosSMnrcNKpU3nKHY20lMi4HCeCKB1JrXCXmW80BGd8lU7kPMg99lGHeGDepMZXwaDZ37IynmmNG1Y5QxGGa+fOHmYbhfXB5DbmzSGhAnJ+ztODGwk+n9UNzPxGyVKjIvruluAUtvu1PKZv42ep6XgG7A0zgajvdUvjVWjRKpN2CJF6NpHe6L6I2sbvo4OmMtOSf3LnVkd0fW5rUkNe436FjrCHE1Z6gM2RT7kI6KNOGBS2UDbF0ZRUR3i11EpjByrcuHAYysg26wOLzHt4jK8MZ1CjqhjsFCCtfhSe749XO5TR4YflQx5MdbeuN251li4Gyx+ZEvuwYgpeuIrOg==",
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.5/PLOOP_WAVELOCK-2.0.5.zip",
-      "zipSha256": "faa3506c0579bfaed8036523498230849b284c732b53abd6aeb3eb1289c5205c",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.5/PLOOP_WAVELOCK-2.0.5.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.5/PLOOP_WAVELOCK-2.0.5-install.zip",
-      "notes": "보안: 라이선스 서명 확인, 업데이트 서명, 배포 코드 난독화, 시트 수식 공격 막기",
-      "date": "2026-11-23T12:55:20.389Z"
+      "sig": "LGX3JMRQSvsrfKwBUyD2yRSgO92av84JHztzaKqCNmffzHl9Lvl659S7qTKgo/QudDg0CEjMWp3Jaufln/L91T3BAQEk9Euh3cUnRa6qx8FGpWPmYhrS2ExHwNxMV4BBUZ8Blb8t9C/6pkaWT4I6AnXrlhTkWA+tNtUJZxe5gxe/ZWQQ63oS8b5cyhSI45T6qw/pv4GPJX9PpDpmQ9iOBi+EPpD8z0/dlBJ9BYE8xHjbyVG5PAG9RuQhZESgFoWbTbn7jHC9AT2f4dXP2Z3/leTVDCptIffO8POCP60LYPP7j3f9IlqBTOL4qcsPE91/CJo2GtT7XwGE7Stdy0Zb/A==",
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.6/PLOOP_WAVELOCK-2.0.6.zip",
+      "zipSha256": "1c9b898cd512ab2c71167bdffdb2724adac3ee9f4672a1dfecb72cfb8afc7f22",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.6/PLOOP_WAVELOCK-2.0.6.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.6/PLOOP_WAVELOCK-2.0.6-install.zip",
+      "notes": "ffmpeg 자동 설치(맥·윈도우) 더 튼튼하게: 플러그인 안 받기가 실패하면 컴퓨터의 curl로 다시 받기, 맥 예비 다운로드(evermeet.cx), 실패 시 설치 안내 페이지로 안내",
+      "date": "2026-11-23T14:22:01.943Z"
     },
     "CHECK": {
-      "version": "2.0.4",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/check-v2.0.4/PLOOP_CHECK-2.0.4.zxp",
-      "sha256": "055b92d03ca327607a61438663c2a7df22bd76693038d9da8cafc5519cbcd2f3",
-      "size": 85487,
+      "version": "2.0.5",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/check-v2.0.5/PLOOP_CHECK-2.0.5.zxp",
+      "sha256": "24e9c0293555fd4316dbc4520866dbe9f394b7c16e6d5480fd3c5dda3f92f899",
+      "size": 85984,
       "signed": true,
-      "sig": "cjbQoVolUsy3bETlImvXVSO7wWHmKraI2Kzw6z6R4AbT2rHeGm6JlY+udTFb2+8SDDxOI2sMRM/PSRc/JpzQOxHLpyGoFoKgF/b76WavqS92U0Zgv7tfqVsRc7IbJsm2OR9IafWJu5N6XfAe2Vu6ugYX7i8Qi4SNb0LIqpMRbzzmSShXVQPMgiVlnUq/dmaGZCLH1oYOh8ZzR6kQL+CSSzt3+3eswZpvKtlNaOOOkTibb7/4UydxJekKMs7DCRcUkMysW5A8noa/MeOxsVpJWsIXZ0yx74YhvfGR3qYIUScheqxQ8jgwJPE6RX18A+q4woxxu3MdnCHCpSUpt0BsrQ==",
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/check-v2.0.4/PLOOP_CHECK-2.0.4.zip",
-      "zipSha256": "62f6873ae3dd8046025dd16263a9b0ff518bfc294e56ae0688c562119fbc1604",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/check-v2.0.4/PLOOP_CHECK-2.0.4.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/check-v2.0.4/PLOOP_CHECK-2.0.4-install.zip",
-      "notes": "보안: 라이선스 서명 확인, 업데이트 서명, 배포 코드 난독화, 시트 수식 공격 막기",
-      "date": "2026-11-23T12:55:20.389Z"
+      "sig": "kjPkckN+56EfXmfO+AoAziWCht/EW61nStCv0L84TH2ud42gXQgJSCNCnanXKIzoTsP4kDXXwMxmtpTmD/P11wCRS4iAWgOxUg0DNWjvdlWbHyMvsMlsZ23RmskUJ0VxwfhSEZuWHwGv9dKBzh1eJx0ux8j9QIjdkh9TBTtCJRPz1VQpoiQMuj1kU8J4F2KaT6t+fd3t3CWR1Dt83wuHT4NGU1tE+ftauh7AwY4LJlQgkrOsjRnJ3qHX7n+8SESOCnxus10f1+6sgonsnZ1DgoH7TL0K2A6y9GYza+tgHuxGgyX3MkarkGOz+nRyrtKw4B8xhocQ3Y5j/AvldmcreQ==",
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/check-v2.0.5/PLOOP_CHECK-2.0.5.zip",
+      "zipSha256": "63b0e42edd03d4bf94e834a38d217a2c344c01e5aa1ebd1cbdbf943fee752aa7",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/check-v2.0.5/PLOOP_CHECK-2.0.5.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/check-v2.0.5/PLOOP_CHECK-2.0.5-install.zip",
+      "notes": "ffmpeg 자동 설치(맥·윈도우) 더 튼튼하게: 플러그인 안 받기가 실패하면 컴퓨터의 curl로 다시 받기, 맥 예비 다운로드(evermeet.cx), 실패 시 설치 안내 페이지로 안내",
+      "date": "2026-11-23T14:22:01.943Z"
     },
     "MOTION": {
-      "version": "2.4.4",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.4/PLOOP_MOTION-2.4.4.zxp",
-      "sha256": "007ec4efa71f95e6a535285da08dc55fbf4e17007b2b5f02582781b6d6a881ce",
-      "size": 144386,
+      "version": "2.4.5",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.5/PLOOP_MOTION-2.4.5.zxp",
+      "sha256": "b8f311cff98b4fe38422c381df0fb06de29de7a23683b9f2bf5987049f7e3b78",
+      "size": 144959,
       "signed": true,
-      "sig": "QBdi0ESqz4k3msvVRmH8M7tjzzQeA469kZxAC4yvCK8IQ0pSbdSD2FNND+QVD0vjMD+POUA3Gj61n2FPzDMPqoVTUdzoiYLHQ8U9u0uqOOcKpVPynWyxTWScI0mfmCm6jKz/4gvh/s4/RgdvmE95zIzQIxOD4jPKesnDF4WIVLFhzRsDzzn31SFdk9JJNVVrnzX+16CDi5cvA0TLKttJ9+4Zh5qr2l3zJMf1G2ng6TrdJY6qbSwR2nAzeE6Zt9lZECpkOfTgajd+eUfpLkfhFZrV7C4QUat2rIlXYNUolWlR9CtJv+9Zcv6VgWSGK41j+TxwyiMqJKq+tPUABrgM4g==",
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.4/PLOOP_MOTION-2.4.4.zip",
-      "zipSha256": "c8aa6d35fdd84f4b529894537d8b6536200c8dc875d5f7d2f05acc8075ddc7ff",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.4/PLOOP_MOTION-2.4.4.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.4/PLOOP_MOTION-2.4.4-install.zip",
-      "notes": "보안: 라이선스 서명 확인, 업데이트 서명, 배포 코드 난독화, 시트 수식 공격 막기",
-      "date": "2026-11-23T12:55:20.389Z"
+      "sig": "HuJlJtpjIBS10JrxQ47uUSFexMvP3QUhVnhAnRGPg7RGhokUXNWcDoucroxCWaaotaraLnMYYMsebw17hJOem3MoUwwFg1RacqnAWTiS9xPUsVB12kSZFovJQBL9wyUJBy+8bBRNQFlssJCtnsVS0skhDuq5+d+9prjGSl7VqjL0UC83/moKt/EVS9t+K9sdNjQEHyKXEwE4NOCIiMefkipE+/ZK5NVJ+AwjTMMD0yHGjWL+6z74kW778tXdfv7XgUQ54bnx67l7jbDFORkwUUEcURePwhE8rh4EfpMeEXTM+7AUNRpm2CpTXcY66bHWL1J/idnp04Nsi9Y7pVzRnw==",
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.5/PLOOP_MOTION-2.4.5.zip",
+      "zipSha256": "4f22b835ca74f50c2d98031c38df223038a8c481c86f4f82b9ffa5eb27d19e23",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.5/PLOOP_MOTION-2.4.5.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.5/PLOOP_MOTION-2.4.5-install.zip",
+      "notes": "ffmpeg 자동 설치(맥·윈도우) 더 튼튼하게: 플러그인 안 받기가 실패하면 컴퓨터의 curl로 다시 받기, 맥 예비 다운로드(evermeet.cx), 실패 시 설치 안내 페이지로 안내",
+      "date": "2026-11-23T14:22:01.943Z"
     },
     "SFX": {
-      "version": "1.0.10",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.10/PLOOP_SFX-1.0.10.zxp",
-      "sha256": "9d566d9204e3ee24ce35091cff204c2ee955feef4cf303539fb88639a0ad8962",
-      "size": 14149557,
+      "version": "1.0.11",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.11/PLOOP_SFX-1.0.11.zxp",
+      "sha256": "3950c8e8166264f02fa40d108015ad34496a2c3be9875da1c79955ea0e4b2523",
+      "size": 14151397,
       "signed": true,
-      "sig": "v/ZqVsQu5A+eM5ThqBA3UAx/jhMSYxoXqQCnWW7gHT7H5Nqf8kjkWQPDZY+oBbPrdlumsuNLcwvI/ER/PF0r6h8KtO13qwEp1XAzGW4gWtC5Xj7F+jI6Bv/BZIBQSduNAmgGF4scTc7Mu14GEWkYBvsDQ/LKzRwQyRTZcqFKYwUmevXTu3JHZr/jR8NwsNnVqCJQHjcimdOWHtGcVp7iArfBL8hLzKxjCL5XVeF0GRt06hW48wv9Rknfhw4hVMOcV1JY2OncA6kQmdrZ0bTbDadAh7VYCuQ+sbEgYFOb0E3648o/r6MQxPdPgnb5PH22etAOn9jS0FhZEhcoOKvByg==",
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.10/PLOOP_SFX-1.0.10.zip",
-      "zipSha256": "bd148fc6ff58cb30a37da9c54fd55d372c6e1490a3763ad712594ad92157eb0e",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.10/PLOOP_SFX-1.0.10.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.10/PLOOP_SFX-1.0.10-install.zip",
-      "notes": "보안: 라이선스 서명 확인, 업데이트 서명, 배포 코드 난독화, 시트 수식 공격 막기",
-      "date": "2026-11-23T12:55:20.389Z"
+      "sig": "SdpyZc+jyBNOdI6wUbovHnXnLTpj3g1SvuwOnRpPaQiZB7UbEyT+2EMyusYVc26QtLgtODWgBQ/JbaseifGN/1bymSuGUGRxNkJHriAdHpKaarmAQ6hcDC6h8D/bHqob13siED2jBHh7PgndvPJr36k/pi8027Rpk/E2aRpdIVO6D88PC3PMLAwi18dU1/6boBpvaWu2P/XTN8MU3Ki30mK1VEqVGkvyA2QzawBQRmIEI0dhI3+oIFMrAaqXk0/GxFR+55tsNdKqUacLLE71XuYlrEyWuzbQ9+9wq/bflZgIiyzoZKpVCzTdMyybljtm+XbcsWTKWSBaqDu8g1CNCg==",
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.11/PLOOP_SFX-1.0.11.zip",
+      "zipSha256": "e16dd7c1914b7d9398ee933f5142ee09325fa5986e4de79f505b3ca16ae5761e",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.11/PLOOP_SFX-1.0.11.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.11/PLOOP_SFX-1.0.11-install.zip",
+      "notes": "ffmpeg 자동 설치(맥·윈도우) 더 튼튼하게: 플러그인 안 받기가 실패하면 컴퓨터의 curl로 다시 받기, 맥 예비 다운로드(evermeet.cx), 실패 시 설치 안내 페이지로 안내",
+      "date": "2026-11-23T14:22:01.943Z"
     },
     "VILLAGE": {
       "version": "1.0.6",
@@ -85,5 +85,5 @@
       "date": "2026-11-23T12:55:20.389Z"
     }
   },
-  "updated": "2026-11-23T12:55:20.389Z"
+  "updated": "2026-11-23T14:22:01.943Z"
 }
