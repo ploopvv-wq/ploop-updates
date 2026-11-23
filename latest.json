@@ -40,18 +40,18 @@
       "date": "2026-11-22T13:28:35.875Z"
     },
     "SFX": {
-      "version": "1.0.1",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.1/PLOOP_SFX-1.0.1.zxp",
-      "sha256": "7a31aed3f91451dccfbdcd19e89352c79f89e751d8ca141e44e79f515204a1d5",
-      "size": 14091718,
+      "version": "1.0.2",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.2/PLOOP_SFX-1.0.2.zxp",
+      "sha256": "b53917ca15c8d0598a875a9c067f270f95b92a940a085cc4f84f14452fec44da",
+      "size": 14105133,
       "signed": true,
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.1/PLOOP_SFX-1.0.1.zip",
-      "zipSha256": "8fcbcbe56f8ade3d4470896900c56c244fb6e6a906d8601f96400a8ea1cb27ee",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.1/PLOOP_SFX-1.0.1.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.1/PLOOP_SFX-1.0.1-install.zip",
-      "notes": "SFX: 디지털 느낌 줄인 2차 사운드 — 막대·종·입김·금관 합주 방식으로 다시 합성",
-      "date": "2026-11-23T06:06:27.445Z"
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.2/PLOOP_SFX-1.0.2.zip",
+      "zipSha256": "8ebbb719fd3fd515c0b6dd651b39171444c0553f41cd53ec54c0a6397e352d25",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.2/PLOOP_SFX-1.0.2.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.2/PLOOP_SFX-1.0.2-install.zip",
+      "notes": "SFX: 음악 잇기 탭 — 박자·마디·화음 맞는 이음새 찾아 자연스럽게 잇기",
+      "date": "2026-11-23T06:18:55.270Z"
     }
   },
-  "updated": "2026-11-23T06:06:27.445Z"
+  "updated": "2026-11-23T06:18:55.270Z"
 }
