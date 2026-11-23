@@ -53,17 +53,17 @@
       "date": "2026-11-23T10:21:17.646Z"
     },
     "VILLAGE": {
-      "version": "1.0.4",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.4/PLOOP_VILLAGE-1.0.4.zxp",
-      "sha256": "0257aa6a17bc278e9199465390546c47223643648e3dc471a0982aa3493b0e48",
-      "size": 53140,
+      "version": "1.0.5",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.5/PLOOP_VILLAGE-1.0.5.zxp",
+      "sha256": "e274e3041e0a54eb4e39011dd8e97a5ccfb5c44107b38422617885e9b953f770",
+      "size": 56618,
       "signed": true,
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.4/PLOOP_VILLAGE-1.0.4.zip",
-      "zipSha256": "0f866caacbca3e5d8b8a27ffa363e3da7f7b4b9ef6a6494f178e71c5607a18af",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.4/PLOOP_VILLAGE-1.0.4.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.4/PLOOP_VILLAGE-1.0.4-install.zip",
-      "notes": "PLOOP 마을: 클릭 이동이 안 되던 문제 대응",
-      "date": "2026-11-23T11:15:36.273Z"
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.5/PLOOP_VILLAGE-1.0.5.zip",
+      "zipSha256": "4c53959e3fc2335b630bc85224598bce5499f2368786ebac0f77f92710193252",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.5/PLOOP_VILLAGE-1.0.5.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.5/PLOOP_VILLAGE-1.0.5-install.zip",
+      "notes": "PLOOP 마을: 주민끼리 대화 + 주민 캐릭터 글(질문·답변·이야기)",
+      "date": "2026-11-23T12:13:45.026Z"
     },
     "COLOR": {
       "version": "1.0.0",
@@ -79,5 +79,5 @@
       "date": "2026-11-23T10:51:10.970Z"
     }
   },
-  "updated": "2026-11-23T11:15:36.273Z"
+  "updated": "2026-11-23T12:13:45.026Z"
 }
