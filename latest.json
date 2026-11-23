@@ -38,7 +38,20 @@
       "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/motion-v2.4.2/PLOOP_MOTION-2.4.2-install.zip",
       "notes": "MOTION: 글꼴 고르기 창(설치된 글꼴·미리보기), 기본 글꼴 시스템 고딕, 애니메이션 길이 단축, 빠르게/느리게",
       "date": "2026-11-22T13:28:35.875Z"
+    },
+    "SFX": {
+      "version": "1.0.0",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.0/PLOOP_SFX-1.0.0.zxp",
+      "sha256": "f080370df297c144eddbaa10bcaaa2e6f46feafade4b9f286c7cc20744b80587",
+      "size": 13435438,
+      "signed": true,
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.0/PLOOP_SFX-1.0.0.zip",
+      "zipSha256": "d0e3d176b04c524b8d8ebc4792cb0cfa9800e1cc931678777d479dd279cb7ddb",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.0/PLOOP_SFX-1.0.0.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.0/PLOOP_SFX-1.0.0-install.zip",
+      "notes": "SFX: 새 플러그인 — 자체 합성 효과음 208개, 올려 듣기, 타임라인 분석 자동 넣기",
+      "date": "2026-11-23T04:45:59.441Z"
     }
   },
-  "updated": "2026-11-22T13:28:35.875Z"
+  "updated": "2026-11-23T04:45:59.441Z"
 }
