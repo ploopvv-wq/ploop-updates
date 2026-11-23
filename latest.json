@@ -53,17 +53,17 @@
       "date": "2026-11-23T10:21:17.646Z"
     },
     "VILLAGE": {
-      "version": "1.0.3",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.3/PLOOP_VILLAGE-1.0.3.zxp",
-      "sha256": "dc9697bc80e441e292d480eeda020ce4d36ebe7295f765f68c54d2a9c87708b9",
-      "size": 52701,
+      "version": "1.0.4",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.4/PLOOP_VILLAGE-1.0.4.zxp",
+      "sha256": "0257aa6a17bc278e9199465390546c47223643648e3dc471a0982aa3493b0e48",
+      "size": 53140,
       "signed": true,
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.3/PLOOP_VILLAGE-1.0.3.zip",
-      "zipSha256": "724d50b36a86704531630893e61525e6b5315a6382821ffc0fe1721f08046a07",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.3/PLOOP_VILLAGE-1.0.3.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.3/PLOOP_VILLAGE-1.0.3-install.zip",
-      "notes": "PLOOP 마을: 주민 캐릭터·공식 꿀팁·서울 날씨·빠른 반응",
-      "date": "2026-11-23T11:08:39.336Z"
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.4/PLOOP_VILLAGE-1.0.4.zip",
+      "zipSha256": "0f866caacbca3e5d8b8a27ffa363e3da7f7b4b9ef6a6494f178e71c5607a18af",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.4/PLOOP_VILLAGE-1.0.4.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.4/PLOOP_VILLAGE-1.0.4-install.zip",
+      "notes": "PLOOP 마을: 클릭 이동이 안 되던 문제 대응",
+      "date": "2026-11-23T11:15:36.273Z"
     },
     "COLOR": {
       "version": "1.0.0",
@@ -79,5 +79,5 @@
       "date": "2026-11-23T10:51:10.970Z"
     }
   },
-  "updated": "2026-11-23T11:08:39.336Z"
+  "updated": "2026-11-23T11:15:36.273Z"
 }
