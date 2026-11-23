@@ -40,18 +40,18 @@
       "date": "2026-11-22T13:28:35.875Z"
     },
     "SFX": {
-      "version": "1.0.6",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.6/PLOOP_SFX-1.0.6.zxp",
-      "sha256": "2a77a1a61f008fdf3b192090291344c7787cbd08bb05a5fe72878b4f8d93ad0a",
-      "size": 14112483,
+      "version": "1.0.7",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.7/PLOOP_SFX-1.0.7.zxp",
+      "sha256": "d5f72980c5c48ca2d393e8f94098c406e1bbb624c575c4aa5d47bebb140e9672",
+      "size": 14113852,
       "signed": true,
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.6/PLOOP_SFX-1.0.6.zip",
-      "zipSha256": "2a29e394df835c8874c92014707fd3b7f5c3f42008c9a86317a576672bd0e906",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.6/PLOOP_SFX-1.0.6.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.6/PLOOP_SFX-1.0.6-install.zip",
-      "notes": "SFX 음악 잇기: 안내 그림 빈자리를 파란색으로",
-      "date": "2026-11-23T08:23:39.801Z"
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.7/PLOOP_SFX-1.0.7.zip",
+      "zipSha256": "a6873d4bf86b414368dc8d204ce37f7ba385640958b9204617a2c6710bffdf1d",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.7/PLOOP_SFX-1.0.7.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sfx-v1.0.7/PLOOP_SFX-1.0.7-install.zip",
+      "notes": "SFX: 리퀴드 글래스 디자인 적용 (빛 번짐 바탕, 반투명 유리 카드, 그라데이션 알약 버튼, 음악 잇기 A·B 초록·빈자리 파랑)",
+      "date": "2026-11-23T08:30:58.987Z"
     }
   },
-  "updated": "2026-11-23T08:23:39.801Z"
+  "updated": "2026-11-23T08:30:58.987Z"
 }
