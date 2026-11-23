@@ -53,17 +53,17 @@
       "date": "2026-11-23T10:21:17.646Z"
     },
     "VILLAGE": {
-      "version": "1.0.1",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.1/PLOOP_VILLAGE-1.0.1.zxp",
-      "sha256": "d6b1e20a159f1485caa7546201ccd89614e2558d827d3d2673567359307dadf2",
-      "size": 48372,
+      "version": "1.0.2",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.2/PLOOP_VILLAGE-1.0.2.zxp",
+      "sha256": "f3f479a156045fb7e99dd9678e7917aad153840ff12479dd26208a5f3abb5c59",
+      "size": 49012,
       "signed": true,
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.1/PLOOP_VILLAGE-1.0.1.zip",
-      "zipSha256": "ffac226c893fa16f6e496551d7524c5899f6ddda8fa2cb1e2d8a5bdb15f645ae",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.1/PLOOP_VILLAGE-1.0.1.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.1/PLOOP_VILLAGE-1.0.1-install.zip",
-      "notes": "PLOOP 마을: 숨겨야 할 '운영자로 보기(미리보기 전용)' 체크가 프리미어에서 보이던 문제 수정",
-      "date": "2026-11-23T10:56:21.881Z"
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.2/PLOOP_VILLAGE-1.0.2.zip",
+      "zipSha256": "278b014f877253fe85a9af12f0e96c44c7d7ffd616175237f9a58dadab18c3c1",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.2/PLOOP_VILLAGE-1.0.2.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.2/PLOOP_VILLAGE-1.0.2-install.zip",
+      "notes": "PLOOP 마을: 마우스로만 이동 + 안내 봇 4명",
+      "date": "2026-11-23T10:59:44.177Z"
     },
     "COLOR": {
       "version": "1.0.0",
@@ -79,5 +79,5 @@
       "date": "2026-11-23T10:51:10.970Z"
     }
   },
-  "updated": "2026-11-23T10:56:21.881Z"
+  "updated": "2026-11-23T10:59:44.177Z"
 }
