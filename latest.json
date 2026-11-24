@@ -57,18 +57,18 @@
       "date": "2026-11-23T14:22:01.943Z"
     },
     "VILLAGE": {
-      "version": "1.0.6",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.6/PLOOP_VILLAGE-1.0.6.zxp",
-      "sha256": "24f2f15121eb5db24362c05497af0ca9bf205c7d4c5928cee77df9354500ed25",
-      "size": 80387,
+      "version": "1.1.0",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.1.0/PLOOP_VILLAGE-1.1.0.zxp",
+      "sha256": "ba59211ce801b5bb3c53cecac9402fb778abd3f6d63a548215af42edf47abf60",
+      "size": 507489,
       "signed": true,
-      "sig": "haKgIIC4DA51Y7RYraUlsWNNsRshcuU+b8C+iV6eMh48WBe845lH8XwUQvkgPdZfNP9BaPz9t88hxyrynCqVlaujPyMkAqQ1tmToXsyWb7M5NEbQaJaboXMzpynrq9gQ7ghKzIigoMjc8NVAevw8868HptHJm2kweqCLawddFgDSTZvC4o/WjUUnZbksF7+MLG90rKZaozDM9ZCEtHhnb3m8zaa09sH+ejZHfpXVq4CFvsGtMiJ33BAhhQ+3ywTp6VgzTmI75F5R+83d2x0M9vg+Ff8UOi7+tbo5bHHvizNyKdH6jPfNz3c4bnln88mHeDHjUHTz4RPIAKy+wtXNKw==",
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.6/PLOOP_VILLAGE-1.0.6.zip",
-      "zipSha256": "f699570d60efd63af9e22d6a2cf98760ab3352c668f55940c12a70e5498012e9",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.6/PLOOP_VILLAGE-1.0.6.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.0.6/PLOOP_VILLAGE-1.0.6-install.zip",
-      "notes": "보안: 라이선스 서명 확인, 업데이트 서명, 배포 코드 난독화, 시트 수식 공격 막기",
-      "date": "2026-11-23T12:55:20.389Z"
+      "sig": "PPaxQxgiDyBZu5etsRS2452wPO0o7Nd2+yFLfwW52Mb05m7Mmg1XWhezVjlY2jUOqdQk8Rrxv9uPCABjTloqNqsPF2i0Fu+MbO2LElfjpIHFsZkbCyuA7W02UfsNwniy2HNDAoUGTuFAs9uQHjXqLZaedpXXKSL6Oh1ppFQZ+dZbNF1j/xpRqw7xX6dyvsu82tH2P63z3ozxzr0PXpEQ+ugqltxWiLqXSrViLQCaini4eqE4FhREOTfb4AlaUTuwDbrDp1anq/jqur6IjV7v/nPLzqsUKfXG6rYL8w1kJwvTNeXI2dU8VDXEn5bpjjMvBRFVSAjvmwJYUZ8jij7piA==",
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.1.0/PLOOP_VILLAGE-1.1.0.zip",
+      "zipSha256": "84ca2c9cc5f448d090ccbeee53b1d37e43f7550f9c102871c3955462c4cb7857",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.1.0/PLOOP_VILLAGE-1.1.0.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.1.0/PLOOP_VILLAGE-1.1.0-install.zip",
+      "notes": "마을: 2D 카툰 지도로 새 단장 — 그림 지도 배경, 간판 한글, 새 캐릭터·꾸미기 옵션, 오늘의 할 일",
+      "date": "2026-11-24T07:17:06.621Z"
     },
     "COLOR": {
       "version": "1.0.1",
@@ -85,5 +85,5 @@
       "date": "2026-11-23T12:55:20.389Z"
     }
   },
-  "updated": "2026-11-23T14:22:01.943Z"
+  "updated": "2026-11-24T07:17:06.621Z"
 }
