@@ -57,18 +57,18 @@
       "date": "2026-11-23T14:22:01.943Z"
     },
     "VILLAGE": {
-      "version": "1.2.0",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.2.0/PLOOP_VILLAGE-1.2.0.zxp",
-      "sha256": "ccf1573a8a82f908f4894376de33b8d054dc2289e4816e41be0bff11cfe84577",
-      "size": 512287,
+      "version": "1.2.1",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.2.1/PLOOP_VILLAGE-1.2.1.zxp",
+      "sha256": "623ffe46651c3ab1784ff3167b4139d5693809b52478fcf6e13c9377a21c5928",
+      "size": 513069,
       "signed": true,
-      "sig": "YAWAZEP+Q0ZQ+QxYKIJXBzlnSZPF+RXJo2WkNMNg/cPLi7b+8wxA5HdmHq75vt/wirlHez4G3T2KCOu6xTdSoR5KtIoM6aGPuziSEtHaAWAK7Zxp7vkmWmfLsiNUCCu+c3SBmjRe3VFES93PQ3lI2NWHDTkAKcy5DdqLR9CO6MjlJw1rT+HRsg0tUBIgU6GmxC7PzjcWtp5xlTbAbXk2QGr5R/jk9NRTPMRsg2+4X9wBw76E5u6pCKyXki0YGuuymxX8fWEwCAfi/KxUfntBpzLRYYq1v+SWPDYDJZiYJQdw68b7LtmVX5j3q3OkbIWcIe+mKvYUGNO152/jEWu7ng==",
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.2.0/PLOOP_VILLAGE-1.2.0.zip",
-      "zipSha256": "7b7ba827022dcaf191c506b4cf2fdab223159bcb2690417e7c371634801901ad",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.2.0/PLOOP_VILLAGE-1.2.0.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.2.0/PLOOP_VILLAGE-1.2.0-install.zip",
-      "notes": "마을: 상영관 열기 — 유튜브 일부 공개 링크로 영상 올리고, 시간(1:23)을 붙인 피드백 주고받기",
-      "date": "2026-11-24T09:50:38.509Z"
+      "sig": "h8lEisM2svu3GSIQYbtTcNCoPdXjBHiU4r9a5bbbclhejdqDw34EnrcvXEk4Dd4vN+mtVhuXc+AaFCyYUcUt1+Jn/IEC0Ct8WMS/doLMbf1baGSDfDMBDzxLWnLFeiS8TMWgGAkj5lF0vFQChjTjIlCmw6jfQPfTgDOmi4smTYb5/TRiil+7oW8YrL7JS7pacgoupmAyZ3VBIuZr3Cverav8Xo4A1ztNeFRnIR4SnRwDEhV6JZh8tIkJUEyYe771tDZvBmxF4xp0m9oGNmKtod+v/fu6W1kLzf1q85EQ3MfPKR7qPvqqH/BwULEhA8TzyuApIrxuUOYy9bAhjoh69Q==",
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.2.1/PLOOP_VILLAGE-1.2.1.zip",
+      "zipSha256": "23ef389b512f61f48204580085779b9f1f8c3f0e449851d1b32bec8985216937",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.2.1/PLOOP_VILLAGE-1.2.1.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.2.1/PLOOP_VILLAGE-1.2.1-install.zip",
+      "notes": "마을: 웨딩 관련 내용을 빼고 브이로그·홍보영상·행사 스케치 위주로 바꾸기",
+      "date": "2026-11-24T09:55:36.337Z"
     },
     "COLOR": {
       "version": "1.0.1",
@@ -85,5 +85,5 @@
       "date": "2026-11-23T12:55:20.389Z"
     }
   },
-  "updated": "2026-11-24T09:50:38.509Z"
+  "updated": "2026-11-24T09:55:36.337Z"
 }
