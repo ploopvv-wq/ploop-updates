@@ -57,18 +57,18 @@
       "date": "2026-11-23T14:22:01.943Z"
     },
     "VILLAGE": {
-      "version": "1.2.1",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.2.1/PLOOP_VILLAGE-1.2.1.zxp",
-      "sha256": "623ffe46651c3ab1784ff3167b4139d5693809b52478fcf6e13c9377a21c5928",
-      "size": 513069,
+      "version": "1.3.0",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.3.0/PLOOP_VILLAGE-1.3.0.zxp",
+      "sha256": "ccf19a094c3a0c47cd863c7c2fa2d688b549162bf352e73eb8707a7042aaec69",
+      "size": 527950,
       "signed": true,
-      "sig": "h8lEisM2svu3GSIQYbtTcNCoPdXjBHiU4r9a5bbbclhejdqDw34EnrcvXEk4Dd4vN+mtVhuXc+AaFCyYUcUt1+Jn/IEC0Ct8WMS/doLMbf1baGSDfDMBDzxLWnLFeiS8TMWgGAkj5lF0vFQChjTjIlCmw6jfQPfTgDOmi4smTYb5/TRiil+7oW8YrL7JS7pacgoupmAyZ3VBIuZr3Cverav8Xo4A1ztNeFRnIR4SnRwDEhV6JZh8tIkJUEyYe771tDZvBmxF4xp0m9oGNmKtod+v/fu6W1kLzf1q85EQ3MfPKR7qPvqqH/BwULEhA8TzyuApIrxuUOYy9bAhjoh69Q==",
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.2.1/PLOOP_VILLAGE-1.2.1.zip",
-      "zipSha256": "23ef389b512f61f48204580085779b9f1f8c3f0e449851d1b32bec8985216937",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.2.1/PLOOP_VILLAGE-1.2.1.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.2.1/PLOOP_VILLAGE-1.2.1-install.zip",
-      "notes": "마을: 웨딩 관련 내용을 빼고 브이로그·홍보영상·행사 스케치 위주로 바꾸기",
-      "date": "2026-11-24T09:55:36.337Z"
+      "sig": "v/pJrdzJC8/b4Wy1d5gcno+4jU39wQ4r3pyvyNvGFNiiHsDFRmDdAi2NOj7b3Gwyho6iVoAA/BfR0+mk8XAf47ZjkHDqrwZRn4MkJTBaZ0975h7FBfthmdF07Sur6NV4wiJ0hhBlmy8lHWGGCHAGr2RNL5IODOUJrnghx37MVdcPEUzwolaXClguAoH+jrc97XbieAXKq4+FCDz11id1kepcjBf5J8o37jlusStNBb2O2tCk8gpRUNqx23JypKnixuhk2INl0MTuq1YrclMSH/fsLqIoz2tD2+G2kUe1gE1qtVL5PpV29kZU4hVkUHPqlzgO4nlVH3DS0RzKJ5T40w==",
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.3.0/PLOOP_VILLAGE-1.3.0.zip",
+      "zipSha256": "a98dc9d2fa52715fa3a46d4bca6fdb3ff7d003dfef5e8bf6a07fbfa63416b167",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.3.0/PLOOP_VILLAGE-1.3.0.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.3.0/PLOOP_VILLAGE-1.3.0-install.zip",
+      "notes": "마을: 건물 안으로 들어가기 (편집실·펍·우체국·플러그인 숍·상영관) + 캐릭터가 아래 바에 가리지 않게",
+      "date": "2026-11-24T10:07:36.374Z"
     },
     "COLOR": {
       "version": "1.0.1",
@@ -85,5 +85,5 @@
       "date": "2026-11-23T12:55:20.389Z"
     }
   },
-  "updated": "2026-11-24T09:55:36.337Z"
+  "updated": "2026-11-24T10:07:36.374Z"
 }
