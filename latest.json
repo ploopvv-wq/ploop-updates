@@ -57,18 +57,18 @@
       "date": "2026-11-23T14:22:01.943Z"
     },
     "VILLAGE": {
-      "version": "1.1.1",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.1.1/PLOOP_VILLAGE-1.1.1.zxp",
-      "sha256": "06ef06b947fd2872993a0cb81cd83a920737bfa9f64ddd4a65ac5a11ff5b43b2",
-      "size": 507561,
+      "version": "1.2.0",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.2.0/PLOOP_VILLAGE-1.2.0.zxp",
+      "sha256": "ccf1573a8a82f908f4894376de33b8d054dc2289e4816e41be0bff11cfe84577",
+      "size": 512287,
       "signed": true,
-      "sig": "qtwPJLqgWUyY6qrYlrEnm8TECCrwVG3df6grks/yYqCgvDdgZgao0scmQ8QTEaT1bNfvt64BRyconcxK0uStymqFmOVFZxL+oPvhYc/Ian+QXbvhDSv/vpnsdZlU2RaJvVtIdhqOyouHwTzBiwQk4xTou4NMY/XfeegL9uhvnu0m8jTQXTKLAg6yx5V2eCGXiUtJdoSkEokJNkx4Z/tCeOmRW8FJ2lImvmJJ7w6aCyyemwlfUG5Icb7HD495AesOi2uERFmrNSprNj+JPw1dy52i6W0eDKixOn7U0/oAxNPJ+Cay716MFwwQvAbbSA5lYd6NJu4HlaCeLgUuG/7Arw==",
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.1.1/PLOOP_VILLAGE-1.1.1.zip",
-      "zipSha256": "75aa1db8bb0e2f5920e4421c509f15ab1ed78b927ed2bc206de18a744821747d",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.1.1/PLOOP_VILLAGE-1.1.1.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.1.1/PLOOP_VILLAGE-1.1.1-install.zip",
-      "notes": "마을: 간판 글자를 간판 기울기에 맞춰 돌리고, 화면 디자인을 프리미어에 맞는 블랙 테마로",
-      "date": "2026-11-24T07:22:14.612Z"
+      "sig": "YAWAZEP+Q0ZQ+QxYKIJXBzlnSZPF+RXJo2WkNMNg/cPLi7b+8wxA5HdmHq75vt/wirlHez4G3T2KCOu6xTdSoR5KtIoM6aGPuziSEtHaAWAK7Zxp7vkmWmfLsiNUCCu+c3SBmjRe3VFES93PQ3lI2NWHDTkAKcy5DdqLR9CO6MjlJw1rT+HRsg0tUBIgU6GmxC7PzjcWtp5xlTbAbXk2QGr5R/jk9NRTPMRsg2+4X9wBw76E5u6pCKyXki0YGuuymxX8fWEwCAfi/KxUfntBpzLRYYq1v+SWPDYDJZiYJQdw68b7LtmVX5j3q3OkbIWcIe+mKvYUGNO152/jEWu7ng==",
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.2.0/PLOOP_VILLAGE-1.2.0.zip",
+      "zipSha256": "7b7ba827022dcaf191c506b4cf2fdab223159bcb2690417e7c371634801901ad",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.2.0/PLOOP_VILLAGE-1.2.0.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.2.0/PLOOP_VILLAGE-1.2.0-install.zip",
+      "notes": "마을: 상영관 열기 — 유튜브 일부 공개 링크로 영상 올리고, 시간(1:23)을 붙인 피드백 주고받기",
+      "date": "2026-11-24T09:50:38.509Z"
     },
     "COLOR": {
       "version": "1.0.1",
@@ -85,5 +85,5 @@
       "date": "2026-11-23T12:55:20.389Z"
     }
   },
-  "updated": "2026-11-24T07:22:14.612Z"
+  "updated": "2026-11-24T09:50:38.509Z"
 }
