@@ -97,7 +97,21 @@
       "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/trendy-v1.0.1/PLOOP_TRENDY-1.0.1-install.zip",
       "notes": "보안 점검 반영",
       "date": "2026-11-25T06:03:53.365Z"
+    },
+    "STICKER": {
+      "version": "1.0.0",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sticker-v1.0.0/PLOOP_STICKER-1.0.0.zxp",
+      "sha256": "4e7a86538b740ddbd9c738c2638135495fcbbeec67b5ba8261bac39c68f10cb3",
+      "size": 10776897,
+      "signed": true,
+      "sig": "uYWsiokanD6b5X8J46FqPmwojbjMR0KBRVSxhnbu0jS5cKTf4JTfQTUv96hIE7/X3AGwnwKRBQfzYnh4yAbcEO9kazkX5e62EQMeJqoGnjTIOnOl2eJ/q8FywTNgDrsLaepUTrqelKnG3/JTPCCtYT8KFy+FVpaizd5wVA8r7oqfLod7QLoK/d/4f1UN76eL08gx3oiXF2C5phbEZUf1xvGXO/WJpc2qX/YJ9zISpChUUK9npoob3aB4bCeOp4YZChcYg07fzojUU1tgDsuLF24ABY2AdcJ9WQnhXfYzORRcbtJnZVv6fAuPtCvgxJiHR2I9LIYVHQheVlWXPJeFyA==",
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sticker-v1.0.0/PLOOP_STICKER-1.0.0.zip",
+      "zipSha256": "5f01af9663239bdd97dd1ec95a1d9237ec35ad523056291c625baf70fdb668a4",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sticker-v1.0.0/PLOOP_STICKER-1.0.0.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sticker-v1.0.0/PLOOP_STICKER-1.0.0-install.zip",
+      "notes": "STICKER: 일본 국기 빼고 태극기 추가\nSTICKER 윈도우 설치: 예전 MOTION용 정리 줄 빼기\nSTICKER 설치 스크립트: emoji·fonts 폴더도 복사\nPLOOP STICKER 1.0.0 개발판: 이모지·스티커·말풍선·손그림·예능자막",
+      "date": "2026-11-25T08:37:15.767Z"
     }
   },
-  "updated": "2026-11-25T08:32:25.291Z"
+  "updated": "2026-11-25T08:37:15.767Z"
 }
