@@ -83,7 +83,21 @@
       "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/color-v1.0.2/PLOOP_COLOR-1.0.2-install.zip",
       "notes": "플러그인을 처음 켜면 PLOOP 마을도 한 번 같이 설치 (서명·sha256 확인, 지운 뒤엔 다시 설치 안 함)",
       "date": "2026-11-24T14:49:24.793Z"
+    },
+    "TRENDY": {
+      "version": "1.0.0",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/trendy-v1.0.0/PLOOP_TRENDY-1.0.0.zxp",
+      "sha256": "206ffe3f59c0cbdfe2cd1d9f178b7d5f211b84e5913c42f24e5c3c68c3e2021a",
+      "size": 84380,
+      "signed": true,
+      "sig": "HA73bYFgq/hPaD4sAmmzKoeiy6jj9A8h0zOvwHqpA0Sx26vEyo8dzAHDYohSlMwO4o4I7fe8SxWpvi88uZ8k2csMdHIt8xEFrMSFenj5herPktd0dWt9+77u9L25DNisT0Cky/w7GB43I4mWipp7YPNmUjXaoyF3piGF5+GHcO7yUBTdujzhTkbqLs6JceRdPgNkVjHcbH+Hz6h5HaZUJZePfbf2k41J2WTRnOii/WqxNRTlAMFk7IdHyoHT9PmTjDYoi/m4DHn7jKpPKbtp0PVi97uW/XswSbhxq3qdNn4heheqs/FczdwuG5BEbBQUMqskpqO+li2Jc8B1l/Vymw==",
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/trendy-v1.0.0/PLOOP_TRENDY-1.0.0.zip",
+      "zipSha256": "0df87cc273b95b1738f7dd58b520d99973574249f0fc351807aba20dd4516c7e",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/trendy-v1.0.0/PLOOP_TRENDY-1.0.0.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/trendy-v1.0.0/PLOOP_TRENDY-1.0.0-install.zip",
+      "notes": "PLOOP TRENDY 1.0.0: 릴스 트렌드 템플릿 플러그인 — 첫 템플릿 '바탕화면 속으로'",
+      "date": "2026-11-25T02:14:48.554Z"
     }
   },
-  "updated": "2026-11-24T14:49:24.793Z"
+  "updated": "2026-11-25T02:14:48.554Z"
 }
