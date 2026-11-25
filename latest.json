@@ -1,18 +1,18 @@
 {
   "plugins": {
     "WAVELOCK": {
-      "version": "2.0.7",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.7/PLOOP_WAVELOCK-2.0.7.zxp",
-      "sha256": "3ececfe1ed0ab6e0a2a499830c8b3d5772bc5449ee6f216aef6a7c6354f5a93b",
-      "size": 156933,
+      "version": "2.0.8",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.8/PLOOP_WAVELOCK-2.0.8.zxp",
+      "sha256": "3b2c7d2cd1ea2b21a3b71f0ba58548b844a128b902692307f68d7234df356c86",
+      "size": 156148,
       "signed": true,
-      "sig": "x0+gEVz1b5j2LFjDelNbs4rEXMbej9fteN/4FSWyv+0wVU6Yuo04D89oT/uwZOexpYvNWUUnSxTNC1tKrh7v2ES2eqKG0tHM4dUKwb7STqHPENo3E3EslHg0jOl+TzW+0JWTXQnKoe+VfiOq6P51SSstmlfKV0ZVgTlJfdiSFfmnGzZVpntJv4bfGXKNpIDIcy4gf6ns8aByp1hQxiVVLWs25RMZ5LzXXqex5QkuwS5jl1a20m7bOnfEmC7qpcasMYycnv/KZjGRvWA6Zet9RVUFTiCFIooZIKFjWiIoLMOspkUNztcfPOaOz9dnq7MS/+oE2hAyo9uW5fQHP/KKCw==",
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.7/PLOOP_WAVELOCK-2.0.7.zip",
-      "zipSha256": "0b86b2565ca60d1ec79e40cdf22ce82996f930fea52960f5af94b9320b17e397",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.7/PLOOP_WAVELOCK-2.0.7.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.7/PLOOP_WAVELOCK-2.0.7-install.zip",
-      "notes": "플러그인을 처음 켜면 PLOOP 마을도 한 번 같이 설치 (서명·sha256 확인, 지운 뒤엔 다시 설치 안 함)\nCHECK: 패널 아래 로그 칸 없애기 (사용법 안내도 정리)\nWAVELOCK: 패널 아래 로그 칸 없애기",
-      "date": "2026-11-24T14:49:24.793Z"
+      "sig": "A5nI8UJ9F4qfBodMfhi/DuGXub8MJNcXOaH1hHIy4MXeJrj0a3CChuuYVecBQWU89q18FO/NtIyiMISAVBE+fTk12zfOb0QqJT+rMYm3XObkW+unV1yacRSipN0Me/hTgm3IkU0IlVoeQDytRCGvq7eS4M2p2qvMA/DMGZ2AyoNZGY6ZYgyeEOs4vdG6PMX1TYUptG9fHBzbibeabJuexkQk/n6BIeFXXzllVStKeLEdNnK2pTaLh3B5C77ln1qDD8gPnsmUNUjMdLvuLQ+hBCCzvMGcxAgw2hHz6xuAvjxUXuGdj92hGPVw/wqQMQuRzi0NdTAKcrCuDYRP2oN4nQ==",
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.8/PLOOP_WAVELOCK-2.0.8.zip",
+      "zipSha256": "cff69ec30ec1d3dccabd8d657a982e0694563fce98536c85a1fb7259d88d1287",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.8/PLOOP_WAVELOCK-2.0.8.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/wavelock-v2.0.8/PLOOP_WAVELOCK-2.0.8-install.zip",
+      "notes": "WAVELOCK 2.0.8: EDIT 탭을 '곧 공개'로 잠금 (SOON 배지, 눌러도 열리지 않음)",
+      "date": "2026-11-25T05:37:04.281Z"
     },
     "CHECK": {
       "version": "2.0.6",
@@ -99,5 +99,5 @@
       "date": "2026-11-25T02:14:48.554Z"
     }
   },
-  "updated": "2026-11-25T02:14:48.554Z"
+  "updated": "2026-11-25T05:37:04.281Z"
 }
