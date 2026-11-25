@@ -57,18 +57,18 @@
       "date": "2026-11-25T06:03:53.365Z"
     },
     "VILLAGE": {
-      "version": "1.3.3",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.3.3/PLOOP_VILLAGE-1.3.3.zxp",
-      "sha256": "5d820c7bd94b7c6599141363aae7cfb321fc3e44ae765b29641f6ebbab425e46",
-      "size": 530292,
+      "version": "1.4.0",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.4.0/PLOOP_VILLAGE-1.4.0.zxp",
+      "sha256": "5210242c15e2c7648d4c003b2bca758c1f1f5bb132e8b4852478bb8dcb04bc29",
+      "size": 575253,
       "signed": true,
-      "sig": "J+64M/yi83Iyv0nhJSrgmzhdHqjR3q8aifYM96heKYC70bB9E8qbDAQmph5yPmz5KeVr3z9Lg3fPnx9eipXtQ9x/S2w1qXwX7+BNie9Mq0kvlBSfR24+5KoeCk+0e6A5Q++dS+AbEMKhuo0DXUYt4aOCEN8Esf0P7ZPQYONwF5luG667iBYW+6nbaBtS7ek/7wbcdPJusil2afte5ykJLO4DKEzkvMz5lRd+6uuTxjG2iTRKp5Qmo1XAs+efPiaOkHoZLiIlajwOfyJHPQ+oyeyZIPO4IpA7So7j+K+9o+WmogoNDzsk1223G06pOuTNkakpB7oZ2IeCtB9wcHQfnQ==",
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.3.3/PLOOP_VILLAGE-1.3.3.zip",
-      "zipSha256": "7b4a16a0baf61fbc86e4a1194fdf77e7f7a4b0473e6fac65df945eea2927b899",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.3.3/PLOOP_VILLAGE-1.3.3.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.3.3/PLOOP_VILLAGE-1.3.3-install.zip",
-      "notes": "마을: 캐릭터 만들기의 '운영자로 보기' 체크 칸 지우기",
-      "date": "2026-11-25T06:10:54.756Z"
+      "sig": "H1KhGAc8lKcKlNS+rqQeBLJ5E5TyD449IPWoRiYaFjG557JmfWA88RT49FpUhIE2gZJzIRM4UI6/Pn1hIoi20wmE92qXBWeDsBwHdqGUW0+8FBfc9Gf9J+yLVbfxih7OOZJ+10jKPreNLKuTIJNNOm46gBwUePmwNGSBU17GDdFhF+xOyA/2eou4YSkR0n4JKEYoc1Jd8nWBj81KUCRID8J/f9yOCd6Fr0EzdJ3Y5w5QfqAQWsLK2bSh4QkzsEIVA3Yn0zGBgHAGDVkNA0iQTAmXlescRYJ1Bebdicp30O8/VyGKg8bRnmROuOBxDiDv/u+fTg5B7rMudDFBer46+Q==",
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.4.0/PLOOP_VILLAGE-1.4.0.zip",
+      "zipSha256": "0ac5831eb3aa5f3db767528fdd2904c9927f2fbe53785c24aecb79993024825a",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.4.0/PLOOP_VILLAGE-1.4.0.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v1.4.0/PLOOP_VILLAGE-1.4.0-install.zip",
+      "notes": "마을: 상태 표시 · 분수대 낚시(패션템 16종) · 오목 · 알까기 · 컷 리듬게임 · 주간 랭킹",
+      "date": "2026-11-25T08:32:25.291Z"
     },
     "COLOR": {
       "version": "1.0.3",
@@ -99,5 +99,5 @@
       "date": "2026-11-25T06:03:53.365Z"
     }
   },
-  "updated": "2026-11-25T06:10:54.756Z"
+  "updated": "2026-11-25T08:32:25.291Z"
 }
