@@ -99,19 +99,19 @@
       "date": "2026-11-25T17:17:09.627Z"
     },
     "STICKER": {
-      "version": "3.1.0",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sticker-v3.1.0/PLOOP_STICKER-3.1.0.zxp",
-      "sha256": "0ef9f549e2ba747aee8f34bc0456b3d90556f46fcaf22cbf4714134c24c07626",
-      "size": 10793563,
+      "version": "3.1.1",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sticker-v3.1.1/PLOOP_STICKER-3.1.1.zxp",
+      "sha256": "7d87137ced55d639370cead70f48068e206e8076190c0ded34a605d738b0890b",
+      "size": 10793716,
       "signed": true,
-      "sig": "aaRcFAhlhL733OG6qDCjJ1RSsPDJjl4wDe4F+NN0WlS97piY+PzONYxDbumsGbw8HkkmoYXdn/2LMLowFl4Ic7eK3KRM/T75PME2fNlRFNKaARNydn+Mc90doNU+vBmsF29tg+U/jZCtG4BTvV+pN2vKMa4LyJ0j3H6VGGALaRt4USSYawu/vvJpbDdstemYxEUy/jakgtZF6bVuqC6PvmFzGpMWOr+NPdi7AYt7wdHhyFt5oma2F9WiKP88Iv+PaAd5Am8emgYimrXAbaucXJbIhgDYRuL/XSE9qYGDDe5bz/K7M6ggp8kQi8KfHpf5Mg9IJE+hWI/vf+or9T9MWg==",
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sticker-v3.1.0/PLOOP_STICKER-3.1.0.zip",
-      "zipSha256": "0ab17456b88fc78f9083d7abff11564e9a1454a8ec00afbc583234b7d16f24ec",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sticker-v3.1.0/PLOOP_STICKER-3.1.0.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sticker-v3.1.0/PLOOP_STICKER-3.1.0-install.zip",
-      "notes": "STICKER: 예능자막 48개(유튜브·인터뷰·여행, 꾸밈 15가지) + 모던자막 탭 22종",
-      "date": "2026-11-25T18:11:08.084Z"
+      "sig": "s6TRfba5PQIGmeAurM6KnTbnzY033OcJND9J4ho7jQiPliaBl52A1WMa7bv61G9N6PnvbfatJxIMN6g929kul6AOceAmGkk1YPuhR0Tj5EX7ITYV205xC4Hj7ua21oyZ2ZMcoHzURoXbWuhjE8n7OHqaTJZrjeKdW2jq7fzyngp56duVxjqPVZuJ6mZNs4wpVuLUHNy2Lhd2N0bTNsphGO7cGJQymvqRN8srdqD1yHkTvMkDr01VULh3vZzUNqdoHkyHKMqPheKUT7NGDu0xE6Rk7Ncy0wmwEUcT81mfrsKpnyDpvlfV/fehmxWl3Qiky7yWnbCmE5LnmWrmy+XcCg==",
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sticker-v3.1.1/PLOOP_STICKER-3.1.1.zip",
+      "zipSha256": "f9b4f942d32adb6d51309909260e0607c04287426ae8a04610cb2e361ef33acc",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sticker-v3.1.1/PLOOP_STICKER-3.1.1.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sticker-v3.1.1/PLOOP_STICKER-3.1.1-install.zip",
+      "notes": "STICKER: 슬라이더·미리보기 끌기를 마우스 이벤트로 (프리미어에서 안 움직이던 문제), 기본 크기 키우기, 새로 고르면 가운데에 생성(모던자막 제외)",
+      "date": "2026-11-26T01:47:02.620Z"
     }
   },
-  "updated": "2026-11-25T18:11:08.084Z"
+  "updated": "2026-11-26T01:47:02.620Z"
 }
