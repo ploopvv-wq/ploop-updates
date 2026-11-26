@@ -57,18 +57,18 @@
       "date": "2026-11-25T17:17:09.627Z"
     },
     "VILLAGE": {
-      "version": "3.1.1",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.1/PLOOP_VILLAGE-3.1.1.zxp",
-      "sha256": "4a1188dd07f61540ac28aa8772e522a237fb979fcaba69a42ec7c011e1ac34f7",
-      "size": 584982,
+      "version": "3.1.2",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.2/PLOOP_VILLAGE-3.1.2.zxp",
+      "sha256": "066dfc1624b66017841b705719e937662b030f1a04c872e9d2e9ee6f77825b5a",
+      "size": 585337,
       "signed": true,
-      "sig": "m15fW+u/7peQvp9xvKP7MLFO/iOgaEuAJTVzqePSUZcWu13XcOj+UZtwMPO5F2grJsQIz4Y8xJAXF4w7+gauo9KOvvmUQ8kp9vU7IGuQw0wqqm6MEAPkvaDco+ZZFTezpkBA7RovyqIRUE0aHo6L+tEgpJkNf5uglVqFytu1+gFkZY+oVLqfeZrmWFAnHfM2bCfErF9wlHnvjtlykjlDqQv8iaEqWGmHqruXKiKwH4D4zuK4itI2wvv0tLnsWCu020PMnFxnZ660ujZ2IIPytDynGPSZCOfdDI1w6QA2Kay/zqfzCibMn0OW5rP5f0n8FhWPANj8cZuNrFrYJWXoHQ==",
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.1/PLOOP_VILLAGE-3.1.1.zip",
-      "zipSha256": "2d03a537b3bb5e1cfcb48ee86245e5bfba2d8d978a1d5e5eed29d1cedc99d2a8",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.1/PLOOP_VILLAGE-3.1.1.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.1/PLOOP_VILLAGE-3.1.1-install.zip",
-      "notes": "웹 마을 준비: editorvillage.com에서 키로 들어오기(기기 수에 안 셈) · 사이트 구경용 공개 읽기(c_pub) · 접속자 웹/패널 구분",
-      "date": "2026-11-26T13:15:19.230Z"
+      "sig": "flVcqFrHF8FILiaZc7iUmsv5HclvMYA5IJoiOY3EG4BYbQEfduRxSLh8lOl8z5aEOaVnVwyc4lJY48Ut74EHHv1oIhal3zG4VbML1WwXQSLplXkgWPAqftlahHtn081CmNvzkmw0UeQLW/lI2sK4MjniyvwHacLTB6hy7BwvdfPcZotpyJ5fTjGi11FpPkJkCA4ssqOXChzNxw2P5+MhpreQRsxd10v84t7UpTVt8XQFcYBqF9mfCbTBFYkxQCyB4woATZQeD4/AHvXUcd7ayNxYk9Ux27Gfl34P7Hd9hpOg4ncr23gtYNK4F7i/SL2gE9GL5YtGdT1eVz+p7VyaJQ==",
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.2/PLOOP_VILLAGE-3.1.2.zip",
+      "zipSha256": "4d5108494e0200318b622b778fc9c5f0ff39d414a33030aa11c3a112e8f9d3b2",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.2/PLOOP_VILLAGE-3.1.2.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.2/PLOOP_VILLAGE-3.1.2-install.zip",
+      "notes": "마을: 커뮤니티 후기 말머리(플러그인 고르기, 제목 앞 [이름]) · 개발일지 후기 남기기 버튼 · 베타테스터 쿠폰 안내, 서버: 후기 공개 읽기(c_pub op=review)",
+      "date": "2026-11-26T14:09:04.525Z"
     },
     "COLOR": {
       "version": "3.0.3",
@@ -127,5 +127,5 @@
       "date": "2026-11-26T05:09:13.117Z"
     }
   },
-  "updated": "2026-11-26T13:15:19.230Z"
+  "updated": "2026-11-26T14:09:04.525Z"
 }
