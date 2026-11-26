@@ -57,18 +57,18 @@
       "date": "2026-11-25T17:17:09.627Z"
     },
     "VILLAGE": {
-      "version": "3.1.2",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.2/PLOOP_VILLAGE-3.1.2.zxp",
-      "sha256": "066dfc1624b66017841b705719e937662b030f1a04c872e9d2e9ee6f77825b5a",
-      "size": 585337,
+      "version": "3.1.3",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.3/PLOOP_VILLAGE-3.1.3.zxp",
+      "sha256": "770f4d9b7b1c6f5465f96a2a1aeb2165bcdd3d4f209d88eecec7f4cf3294a613",
+      "size": 584934,
       "signed": true,
-      "sig": "flVcqFrHF8FILiaZc7iUmsv5HclvMYA5IJoiOY3EG4BYbQEfduRxSLh8lOl8z5aEOaVnVwyc4lJY48Ut74EHHv1oIhal3zG4VbML1WwXQSLplXkgWPAqftlahHtn081CmNvzkmw0UeQLW/lI2sK4MjniyvwHacLTB6hy7BwvdfPcZotpyJ5fTjGi11FpPkJkCA4ssqOXChzNxw2P5+MhpreQRsxd10v84t7UpTVt8XQFcYBqF9mfCbTBFYkxQCyB4woATZQeD4/AHvXUcd7ayNxYk9Ux27Gfl34P7Hd9hpOg4ncr23gtYNK4F7i/SL2gE9GL5YtGdT1eVz+p7VyaJQ==",
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.2/PLOOP_VILLAGE-3.1.2.zip",
-      "zipSha256": "4d5108494e0200318b622b778fc9c5f0ff39d414a33030aa11c3a112e8f9d3b2",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.2/PLOOP_VILLAGE-3.1.2.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.2/PLOOP_VILLAGE-3.1.2-install.zip",
-      "notes": "마을: 커뮤니티 후기 말머리(플러그인 고르기, 제목 앞 [이름]) · 개발일지 후기 남기기 버튼 · 베타테스터 쿠폰 안내, 서버: 후기 공개 읽기(c_pub op=review)",
-      "date": "2026-11-26T14:09:04.525Z"
+      "sig": "KN63z3ef5q5hxkP2jhTh+vUjl9ycHiibXLnDby0r0ttHvzLKqLzik5H2OMFU3XY0Nrd6t5XYUVWOMYgVjUwUOeXtWIyHfmCG4EjdcSLzgE7mV/igh4gVRlsnTZ+zVvzp2iydHmJrC3y22e7jMw/PY80o559RH4MAOByzBdTlA7UdoWrYRnxZnCaiaVIJvFC+8BnnyETCnAS5at6s3OW9KbqyDl7kQQmh2pEhG/6KHaXmMbeyD0+oeTTZeM61Dp5lhylZNt2xGdANrKuKGIy0TaIqpp6q1GoXnkpE+l/LJkYXREe1SC00Jqk9x9VX2nEB//OyLGewNs5qLESElx2hdw==",
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.3/PLOOP_VILLAGE-3.1.3.zip",
+      "zipSha256": "2749f483128a6d2c42a9211448a33a0f3174ba033af3cd77a2f632bf54b582f9",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.3/PLOOP_VILLAGE-3.1.3.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.3/PLOOP_VILLAGE-3.1.3-install.zip",
+      "notes": "마을: 공지 목록만 열어도·직접 쓴 공지도 '본 공지'로 처리돼서 플러그인 패널 알림이 안 뜨던 문제 고침 (하나씩 열어 볼 때만 본 걸로)",
+      "date": "2026-11-26T14:50:13.616Z"
     },
     "COLOR": {
       "version": "3.0.3",
@@ -127,5 +127,5 @@
       "date": "2026-11-26T05:09:13.117Z"
     }
   },
-  "updated": "2026-11-26T14:09:04.525Z"
+  "updated": "2026-11-26T14:50:13.616Z"
 }
