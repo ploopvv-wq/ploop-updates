@@ -57,18 +57,18 @@
       "date": "2026-11-25T17:17:09.627Z"
     },
     "VILLAGE": {
-      "version": "3.1.0",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.0/PLOOP_VILLAGE-3.1.0.zxp",
-      "sha256": "4331defdad2cf92356f85a23a38f4db097eff8e5b74bbddc18afd12d981e75f3",
-      "size": 584875,
+      "version": "3.1.1",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.1/PLOOP_VILLAGE-3.1.1.zxp",
+      "sha256": "4a1188dd07f61540ac28aa8772e522a237fb979fcaba69a42ec7c011e1ac34f7",
+      "size": 584982,
       "signed": true,
-      "sig": "Ui69/FOvrmQCi+V74bdUrQt9zT5GAmwB/vqrSwKrY+zsDpIlq0/zvjZIuSAg1RqSliKVnRdSq3ODkqpjJI1w4IEAqluEjYGlJS2ZkgZ/APLrWB3iB5oTSBTvFdZcN62iFnM0Dg0G4QQc/DJUi3YrJYFg5R9i5IDnETI5IW99oL/13SKuejWTHkwDkncjYW5vMSsm5a16FqGH8dyirO3R+Xkk26gEfAMQkanH4Mo9RIzCoNkaKntSmVo9XNbc7gn7tOict6xWnFzKodw9Fz7c+PeKsymaIUqPofGFX5rBHF6ViM66sATmB6fQi2AWZS7En8k2rSp+3PpioNWQL1QJXA==",
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.0/PLOOP_VILLAGE-3.1.0.zip",
-      "zipSha256": "2416a925f7b604044df55b3ab97bbd5b0a4d274918edf7197e5fb458a09a7e56",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.0/PLOOP_VILLAGE-3.1.0.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.0/PLOOP_VILLAGE-3.1.0-install.zip",
-      "notes": "마을: 개발일지 탭 — 베타 안내(12.01까지 · 피드백 받는 중) · 지금 만드는 것(얼굴·몸매 보정, 베타 기간 안 배포) · 개발 방향 · 운영자 개발일지 글 · 업데이트 기록",
-      "date": "2026-11-26T06:47:21.564Z"
+      "sig": "m15fW+u/7peQvp9xvKP7MLFO/iOgaEuAJTVzqePSUZcWu13XcOj+UZtwMPO5F2grJsQIz4Y8xJAXF4w7+gauo9KOvvmUQ8kp9vU7IGuQw0wqqm6MEAPkvaDco+ZZFTezpkBA7RovyqIRUE0aHo6L+tEgpJkNf5uglVqFytu1+gFkZY+oVLqfeZrmWFAnHfM2bCfErF9wlHnvjtlykjlDqQv8iaEqWGmHqruXKiKwH4D4zuK4itI2wvv0tLnsWCu020PMnFxnZ660ujZ2IIPytDynGPSZCOfdDI1w6QA2Kay/zqfzCibMn0OW5rP5f0n8FhWPANj8cZuNrFrYJWXoHQ==",
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.1/PLOOP_VILLAGE-3.1.1.zip",
+      "zipSha256": "2d03a537b3bb5e1cfcb48ee86245e5bfba2d8d978a1d5e5eed29d1cedc99d2a8",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.1/PLOOP_VILLAGE-3.1.1.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.1/PLOOP_VILLAGE-3.1.1-install.zip",
+      "notes": "웹 마을 준비: editorvillage.com에서 키로 들어오기(기기 수에 안 셈) · 사이트 구경용 공개 읽기(c_pub) · 접속자 웹/패널 구분",
+      "date": "2026-11-26T13:15:19.230Z"
     },
     "COLOR": {
       "version": "3.0.3",
@@ -127,5 +127,5 @@
       "date": "2026-11-26T05:09:13.117Z"
     }
   },
-  "updated": "2026-11-26T06:47:21.564Z"
+  "updated": "2026-11-26T13:15:19.230Z"
 }
