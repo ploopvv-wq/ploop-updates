@@ -57,18 +57,18 @@
       "date": "2026-11-25T17:17:09.627Z"
     },
     "VILLAGE": {
-      "version": "3.0.2",
-      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.0.2/PLOOP_VILLAGE-3.0.2.zxp",
-      "sha256": "77e8b6ced7c783d12d873be718863e031678ab41852ad9830dc99902a05ae127",
-      "size": 580031,
+      "version": "3.1.0",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.0/PLOOP_VILLAGE-3.1.0.zxp",
+      "sha256": "4331defdad2cf92356f85a23a38f4db097eff8e5b74bbddc18afd12d981e75f3",
+      "size": 584875,
       "signed": true,
-      "sig": "dpteYlYEkpT1m0d4/yKymIvWj77aapCKy22fJQs4dRNivgquosrH/o3WRcEKNmOuly6YCppfHAv6V039R4lCKIHfcO7hR6VRySHyD1eQvI32EaeQxqDVl8Tu5qtW6HmNUX/X8yeWd5G2LPKcq0tuqjo14XdHKaHHhO7RNQcuMQS26EswPIK5xEph5WJERYVwY+5RAfhvMIzgeok+QoBSERv10WRtwy5buIrJdb74949hEJ7H2u9Zt2A9/Edp+GjlpUWyBtT/I3e96732N3tYIgMXEh/pbb5LD6HPoceLzuvE34TmpqluhjAkkJ262IObVqaX8mWFPeQyftJEhNGwXw==",
-      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.0.2/PLOOP_VILLAGE-3.0.2.zip",
-      "zipSha256": "99b3e95545257fd3546aab2ddfd8fe64cfdcae2e2a7399362627f1aaff46d343",
-      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.0.2/PLOOP_VILLAGE-3.0.2.zxp",
-      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.0.2/PLOOP_VILLAGE-3.0.2-install.zip",
-      "notes": "가볍게: 패널에서 손을 떼면 그리기 줄이기 + 프리미어 확인 겹치지 않게",
-      "date": "2026-11-25T17:17:09.627Z"
+      "sig": "Ui69/FOvrmQCi+V74bdUrQt9zT5GAmwB/vqrSwKrY+zsDpIlq0/zvjZIuSAg1RqSliKVnRdSq3ODkqpjJI1w4IEAqluEjYGlJS2ZkgZ/APLrWB3iB5oTSBTvFdZcN62iFnM0Dg0G4QQc/DJUi3YrJYFg5R9i5IDnETI5IW99oL/13SKuejWTHkwDkncjYW5vMSsm5a16FqGH8dyirO3R+Xkk26gEfAMQkanH4Mo9RIzCoNkaKntSmVo9XNbc7gn7tOict6xWnFzKodw9Fz7c+PeKsymaIUqPofGFX5rBHF6ViM66sATmB6fQi2AWZS7En8k2rSp+3PpioNWQL1QJXA==",
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.0/PLOOP_VILLAGE-3.1.0.zip",
+      "zipSha256": "2416a925f7b604044df55b3ab97bbd5b0a4d274918edf7197e5fb458a09a7e56",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.0/PLOOP_VILLAGE-3.1.0.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/village-v3.1.0/PLOOP_VILLAGE-3.1.0-install.zip",
+      "notes": "마을: 개발일지 탭 — 베타 안내(12.01까지 · 피드백 받는 중) · 지금 만드는 것(얼굴·몸매 보정, 베타 기간 안 배포) · 개발 방향 · 운영자 개발일지 글 · 업데이트 기록",
+      "date": "2026-11-26T06:47:21.564Z"
     },
     "COLOR": {
       "version": "3.0.3",
@@ -127,5 +127,5 @@
       "date": "2026-11-26T05:09:13.117Z"
     }
   },
-  "updated": "2026-11-26T05:09:13.117Z"
+  "updated": "2026-11-26T06:47:21.564Z"
 }
