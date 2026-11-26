@@ -111,7 +111,21 @@
       "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/sticker-v3.1.1/PLOOP_STICKER-3.1.1-install.zip",
       "notes": "STICKER: 슬라이더·미리보기 끌기를 마우스 이벤트로 (프리미어에서 안 움직이던 문제), 기본 크기 키우기, 새로 고르면 가운데에 생성(모던자막 제외)",
       "date": "2026-11-26T01:47:02.620Z"
+    },
+    "RETOUCH": {
+      "version": "0.9.0",
+      "url": "https://github.com/ploopvv-wq/ploop-updates/releases/download/retouch-v0.9.0/PLOOP_RETOUCH-0.9.0.zxp",
+      "sha256": "39fc51f5de6b7ac8fe0849019256640feab632820851b806a6c74e0bf7e4d9ff",
+      "size": 32801618,
+      "signed": true,
+      "sig": "F7xWSpiIr5N4S8t9RJyHM4hFznsa7c7YZq3jAwXnsFhvaFfVB1YsBSQxw3wKiShZXcQHMkSKqDeVrIvQXK6bNo048TIpRpx7LkNQtgYnY5kJcCdi/vUFKeE/R6RazbEcyScuOq+xDg0jlY0tcCUtuuB1NvTDHaScFiLLrNRPIR7cgZZENLELiKrPOshcg0Ilox+wmSe1jdLmH0u9kF1G/aN/UMfZOPuVGdu1gRoqd7JAFzlXu32KRft3Fi0lCQyZpk+ywEv/guVsoRqQ1rdShBpOKG26iUvhlRXcJsToJLsztybik6OTs7rGG5B9j/iOcoq0yxXHPkJTU41pO9kCsg==",
+      "zip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/retouch-v0.9.0/PLOOP_RETOUCH-0.9.0.zip",
+      "zipSha256": "5c7474678325cafa6d8dda86f22abf4ff13bce426562ad83cd16a23b484c4054",
+      "install": "https://github.com/ploopvv-wq/ploop-updates/releases/download/retouch-v0.9.0/PLOOP_RETOUCH-0.9.0.zxp",
+      "installZip": "https://github.com/ploopvv-wq/ploop-updates/releases/download/retouch-v0.9.0/PLOOP_RETOUCH-0.9.0-install.zip",
+      "notes": "RETOUCH 0.9.0: 얼굴·몸매 보정 새 플러그인 (사람 찾기 → 미리보기 → 보정 영상 타임라인에)",
+      "date": "2026-11-26T05:09:13.117Z"
     }
   },
-  "updated": "2026-11-26T01:47:02.620Z"
+  "updated": "2026-11-26T05:09:13.117Z"
 }
